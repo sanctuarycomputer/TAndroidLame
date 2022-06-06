@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TAndroidLame.iml" filepath="$PROJECT_DIR$/.idea/modules/TAndroidLame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidlame/TAndroidLame.androidlame.iml" filepath="$PROJECT_DIR$/.idea/modules/androidlame/TAndroidLame.androidlame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TAndroidLame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TAndroidLame.app.iml" />
     </modules>
   </component>
 </project>
