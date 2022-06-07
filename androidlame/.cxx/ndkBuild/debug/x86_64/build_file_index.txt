@@ -1,1 +1,0 @@
-/Users/harrison/sanctu/TAndroidLame/androidlame/src/main/jni/Android.mk
