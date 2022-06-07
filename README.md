@@ -1,3 +1,12 @@
+# ⚠️ Attention
+
+This is a forked project and its master branch has been modified from the source material to best suit requirements for the LightOS project.
+
+The primary changes are summarized as follows:
+- updated gradle config to build with latest version
+- modern configuration for jitpack
+- removed example application code from codebase
+
 # AndroidLame
 
 [![](https://jitpack.io/v/naman14/TAndroidLame.svg)](https://jitpack.io/#naman14/TAndroidLame)
@@ -15,12 +24,12 @@ allprojects {
 		}
 	}
 ```
-#### app/build.gradle
+#### app/build.gradle (amended)
 ```gradle
 apply plugin: 'com.github.dcendents.android-maven' //add it to top of app level build.gradle  
 
 dependencies {
-	        compile 'com.github.naman14:TAndroidLame:1.1'
+	            implementation 'com.github.sanctuarycomputer:TAndroidLame:<TAG>'
 	}
 ```	
 
